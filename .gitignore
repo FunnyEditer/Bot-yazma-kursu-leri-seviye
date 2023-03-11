@@ -1,2 +1,3 @@
 .idea
-scrap_linkedin_posts.xslx
+linkedin_posts.xlsx
+modules/__pycache__
